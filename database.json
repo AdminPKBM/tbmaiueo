@@ -1,424 +1,135 @@
-{
-    "books": [
-        {
-            "id": 1,
-            "title": "The Hacker Playbook 1",
-            "author": "Peter Kim",
-            "cover": "https://github.com/Divinemonk/ebookstore/assets/82360546/02d5d7ae-ee8b-4d89-8831-2215e83a365d",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/thehackerplaybook1/The-Hacker-Playbook-1.pdf",
-            "tags": [
-                "hacking",
-                "pentesting",
-                "red teaming",
-                "adversary simulation",
-                "threat hunting",
-                "threat intelligence",
-                "incident response",
-                "reverse engineering",
-                "malware analysis",
-                "exploitation",
-                "cybersecurity",
-                "post exploitation",
-                "web application"
-            ]
-        },
-        {
-            "id": 2,
-            "title": "The Hacker Playbook 2",
-            "author": "Peter Kim",
-            "cover": "https://github.com/Divinemonk/ebookstore/assets/82360546/e27c94fa-f74c-47b7-9438-44b4f82b461c",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/thehackerplaybook2/The-Hacker-Playbook-2.pdf",
-            "tags": [
-                "hacking",
-                "pentesting",
-                "red teaming",
-                "adversary simulation",
-                "threat hunting",
-                "threat intelligence",
-                "incident response",
-                "reverse engineering",
-                "malware analysis",
-                "exploitation",
-                "cybersecurity",
-                "post exploitation",
-                "web application"
-            ]
-        },
-        {
-            "id": 3,
-            "title": "The Hacker Playbook 3",
-            "author": "Peter Kim",
-            "cover": "https://github.com/Divinemonk/ebookstore/assets/82360546/c53e8cfc-dc46-4d0c-94b9-1cb5e5536841",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/thehackerplaybook3/The-Hacker-Playbook-3.pdf",
-            "tags": [
-                "hacking",
-                "pentesting",
-                "red teaming",
-                "adversary simulation",
-                "threat hunting",
-                "threat intelligence",
-                "incident response",
-                "reverse engineering",
-                "malware analysis",
-                "exploitation",
-                "cybersecurity",
-                "post exploitation",
-                "web application"
-            ]
-        },
-        {
-            "id": 4,
-            "title": "Social Engineering: The Science of Human Hacking",
-            "author": "Christopher Hadnagy",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/2e2091e6-a460-4890-b2aa-17ea1f234829",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/TheScienceOfHumanHacking/Social-Engineering-The-Science-of-Human-Hacking.pdf",
-            "tags": [
-                "social engineering",
-                "humans",
-                "hacking",
-                "pentesting",
-                "psychology",
-                "information gathering",
-                "pretexting",
-                "influence",
-                "manipulation",
-                "mind tricks",
-                "deception"
-            ]
-        },
-        {
-            "id": 5,
-            "title": "Social Engineering: The Art of Human Hacking",
-            "author": "Christopher Hadnagy",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/f7c667ba-aa25-4e47-9652-3ade6903d2f0",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/TheArtOfHumanHacking/Social-Engineering-The-Art-of-Human-Hacking.pdf",
-            "tags": [
-                "social engineering",
-                "humans",
-                "hacking",
-                "pentesting",
-                "psychology",
-                "information gathering",
-                "pretexting",
-                "influence",
-                "manipulation",
-                "mind tricks",
-                "deception"
-            ]
-        },
-        {
-            "id": 6,
-            "title": "The GIANT Black Book of Computer Viruses",
-            "author": "Mark Ludwig",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/d0718ee7-28dc-412c-8e41-734f492955b4",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/TheGiantBlackBookOfComputerViruses/The-Giant-Black-Book-of-Computer-Viruses.pdf",
-            "tags": [
-                "viruses",
-                "computers",
-                "malware",
-                "trojans",
-                "worms",
-                "backdoors",
-                "logic bombs",
-                "cybersecurity",
-                "computer security",
-                "computer viruses",
-                "computer hacking"
-            ]
-        },
-        {
-            "id": 7,
-            "title": "Psych Experiments",
-            "author": "Michael A. Britt",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/beefd17e-3358-48b4-b08e-5abd08b75522",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/PsychExperiments/Psych-Experiments.pdf",
-            "tags": [
-                "psychology",
-                "humans",
-                "experiments",
-                "psychology experiments"
-            ]
-        },
-        {
-            "id": 8,
-            "title": "Psych 101 Psychology: Facts, Basics, Statistics, Tests, and More!",
-            "author": "Paul Kleinman",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/4f42a6dd-77f1-46dc-a057-da4c41049981",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Psych101Psychology/Psych-101-Psychology-Facts-Basics-Statistics-Tests-and-More.pdf",
-            "tags": [
-                "psychology",
-                "humans",
-                "psychology basics",
-                "psychology facts",
-                "psychology statistics",
-                "psychology tests"
-            ]
-        },
-        {
-            "id": 9,
-            "title": "Ikigai",
-            "author": "H\u00e9ctor Garc\u00eda & Francesc Miralles",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/6797789f-b89d-4fac-a0a3-08861ceaf30f",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Ikigai/Ikigai.pdf",
-            "tags": [
-                "personal development",
-                "self-help",
-                "Philosophy",
-                "japanese culture",
-                "purpose",
-                "happiness",
-                "well-being",
-                "mindfulness",
-                "life balance",
-                "meaningful living"
-            ]
-        },
-        {
-            "id": 10,
-            "title": "Android Hacker's Handbook",
-            "author": "JD PF ZL CM SR GW",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/779035e2-c346-47d0-88ca-f6fd897d764e",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Ikigai/Ikigai.pdf",
-            "tags": [
-                "android",
-                "mobile security",
-                "hacking",
-                "cybersecurity",
-                "vulnerability analysis",
-                "reverse engineering",
-                "exploitation",
-                "application security"
-            ]
-        },
-        {
-            "id": 11,
-            "title": "Black Hat Python",
-            "author": "Justin Seitz",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/e5f4a00e-fd7e-42b1-b417-92e66886b664",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/BlackHatPython/Black-Hat-Python.pdf",
-            "tags": [
-                "black hat python",
-                "python",
-                "ethical hacking",
-                "cybersecurity",
-                "offensive security",
-                "hacking",
-                "cybersecurity",
-                "network scanning",
-                "vulnerability exploitation",
-                "security research"
-            ]
-        },
-        {
-            "id": 12,
-            "title": "How to earn $10,000 while learning to code (2nd edition)",
-            "author": "Rob Percival",
-            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/f7741e38-ab21-465b-b978-b3ceee7d57c7",
-            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/HowToEarn%2410%2C000WhileLearningToCode2ndEdition/How-to-earn-10-000-while-learning-to-code-2nd-edition.pdf",
-            "tags": [
-                "coding",
-                "learning",
-                "income generation",
-                "freelancing",
-                "career development",
-                "financial independence"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "title": "The Hacker Playbook 1",
+        "author": "Peter Kim",
+        "cover": "https://github.com/Divinemonk/ebookstore/assets/82360546/02d5d7ae-ee8b-4d89-8831-2215e83a365d",
+        "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/thehackerplaybook1/The-Hacker-Playbook-1.pdf",
+        "tags": [
+            "hacking",
+            "pentesting",
+            "red teaming",
+            "adversary simulation",
+            "threat hunting",
+            "threat intelligence",
+            "incident response",
+            "reverse engineering",
+            "malware analysis",
+            "exploitation",
+            "cybersecurity",
+            "post exploitation",
+            "web application"
+        ],
+        "categories": [
+            "Computers & Technology > Cybersecurity"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Social Engineering: The Science of Human Hacking",
+        "author": "Christopher Hadnagy",
+        "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/2e2091e6-a460-4890-b2aa-17ea1f234829",
+        "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/TheScienceOfHumanHacking/Social-Engineering-The-Science-of-Human-Hacking.pdf",
+        "tags": [
+            "social engineering",
+            "humans",
+            "hacking",
+            "pentesting",
+            "psychology",
+            "information gathering",
+            "pretexting",
+            "influence",
+            "manipulation",
+            "mind tricks",
+            "deception"
+        ],
+        "categories": [
+            "Computers & Technology > Cybersecurity",
+            "Self-Help > Motivational",
+            "Science > Psychology"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Psych Experiments",
+        "author": "Michael A. Britt",
+        "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/beefd17e-3358-48b4-b08e-5abd08b75522",
+        "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/PsychExperiments/Psych-Experiments.pdf",
+        "tags": [
+            "psychology",
+            "humans",
+            "experiments",
+            "psychology experiments"
+        ],
+        "categories": [
+            "Science > Psychology",
+            "Education & Teaching > Study Guides"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Ikigai",
+        "author": "Héctor García & Francesc Miralles",
+        "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/6797789f-b89d-4fac-a0a3-08861ceaf30f",
+        "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Ikigai/Ikigai.pdf",
+        "tags": [
+            "personal development",
+            "self-help",
+            "Philosophy",
+            "japanese culture",
+            "purpose",
+            "happiness",
+            "well-being",
+            "mindfulness",
+            "life balance",
+            "meaningful living"
+        ],
+        "categories": [
+            "Self-Help > Happiness",
+            "Self-Help > Motivational",
+            "Religion & Spirituality > Buddhism",
+            "Travel > Asia"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Android Hacker's Handbook",
+        "author": "JD PF ZL CM SR GW",
+        "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/779035e2-c346-47d0-88ca-f6fd897d764e",
+        "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Ikigai/Ikigai.pdf",
+        "tags": [
+            "android",
+            "mobile security",
+            "hacking",
+            "cybersecurity",
+            "vulnerability analysis",
+            "reverse engineering",
+            "exploitation",
+            "application security"
+        ],
+        "categories": [
+            "Computers & Technology > Cybersecurity",
+            "Computers & Technology > Programming"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "How to earn $10,000 while learning to code (2nd edition)",
+        "author": "Rob Percival",
+        "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/f7741e38-ab21-465b-b978-b3ceee7d57c7",
+        "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/HowToEarn%2410%2C000WhileLearningToCode2ndEdition/How-to-earn-10-000-while-learning-to-code-2nd-edition.pdf",
+        "tags": [
+            "coding",
+            "learning",
+            "income generation",
+            "freelancing",
+            "career development",
+            "financial independence"
+        ],
+        "categories": [
+            "Computers & Technology > Programming",
+            "Business & Economics > Entrepreneurship",
+            "Education & Teaching > Study Guides"
+        ]
+    }
+]
