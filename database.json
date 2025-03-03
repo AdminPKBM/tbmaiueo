@@ -1,1288 +1,206 @@
 {
     "books": [
         {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "b3EnEAAAQBAJ",
-            "title": "Hyper Education",
-            "author": "Pawan Dhingra",
-            "cover": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAL4AfgMBEQACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAABQEDBAIGBwj/xABFEAABAgQDAwYJCgUEAwAAAAABAgMABAUREiExBhNBFCJRVWGRBxc0U3GSlLHRFTJSYnJzgaHB0iMzQlThJENj8CU18f/EABoBAQACAwEAAAAAAAAAAAAAAAABAwIEBQb/xAA5EQABBAADBQQKAQQBBQAAAAABAAIDEQQhMQUSE0FRYXGBwQYUFSIyU5GhsfDRQlLh8TMjJDRigv/aAAwDAQACEQMRAD8A+HQREERBFOBXREWpoowmJUKcCrXtlC1JBCAgnSFpROijCeiFpRRYwUIwm2kFNFTgNrwSijAeiCUotBQogiIImND8qX92feIIl0ERBECCL1W0Nhs/I5C90cPqmNOH/lcvVbXAGzYfD8FTJWOyDxtnhXw7Yh+U4WWFA9iv8fyopBTVKG9IrtvmhzTx6U/nlEy/9OUP5FRs/dx2z3YZ3xN08v4XUp/4bZ1b6xhmHjdAIzBOQ/IXiHHizUNAmHHs/Zpld8btPL+V3s+6WNn35gJSpSCtQB42AiJxcoardkScLZr5QLIs/ZWSjzO0EhMCZl0NrbyChwy1BiHgwPFFZ4eWPa2HeJWAEcx3arihPcl2ccmAhKihS1W6bRMzd6YNUbLl4GzHS1ZFpVVK6qoShlzLIbBIOIKucovjg4Zu1x8dtl2Lh4W4B4p7Uagqm02UebaQsrCUnF9mNaNnEeQSu/jMc7BYWJ7Wg3WvcsG0LLEzSZeooaDTq8JVbiD09MWQOc2Qstc/a8UU2DZiw2nGvuvLRuLyyIImND8qX92feIIl0ERBEQRe4mqgKbR5N4sh0KShOFSrW5pz07I5zY9+Rwul7nEY31PAxPLN66H2XLs5y/ZuZmA2GgUKGAG8NzcmAu1D8T61st8u7u5HL9ped2bmFsVZkJOThwKHSDG3O0OjK83saZ0WNZXPL6rfti+pU41Lk2bQ3iHaT/8AIqwrfdJW/wCkUzjO2LkBfif9LZs8tDWzr7jqMbaCsqR9IW0jCcEzABbuyHMZs17niwLsdQsM1tEjkypenyqZdKgQVDLuAi1uHzt5tc+fbjeEYsNHuA/ugW+gvcm2bcfwBe7K1YSbXimZu9MAulsubg7LMtXVmkjrFUFSLRDCWd2FaKve9uwdEbUUPDvO15/aO0BjS0hgbVr1M1MSzEnT+Vsh1LhQgEi+E21jSa1znO3SvWTzQxQQcZtg0O7LVKdsHX0qYYsBLlOJOHpGWcXYUNIJ5rkekUkocyP+jXx/dF5g6xuLzCIImND8qX92feIIl0ERaCKQIInNUqzM7S5eUbbcStopuVWsbAj9YojhLXlx5rtY7aUeJwscDQQW19hSmXqzLNCckFNuFxQVzha2ZiHQkyB9qYdpxx4B2FLTZvPlmltOfTKzrL6wopbWFEJ1i57d5pC5uEmEE7JSMgbWmuT7dRnA+0haE4AmyrXjCGMxtorZ2njGYyfiNFCqzWiRqzMvRX5FbbhW4FAKFrZiMXwl0gd0V+F2nHDgn4ZzTbrz70mtnF64y9BSa1KSVO5JMsOOXUSbAEEH0xqywOe7eaV6DZ+1oMPhuDKwnXp/KrqVTpkxJralpItOG1l4Ei2cTHFI11uKrx20MFNCWRRbruuS5q9VZn5CXl223EqaIJKrWNhaJiiLHlyx2htOPFYZkTWkFvd0pTP1hmepTUu624ZhGHn5WuNe+DISyQuvJTi9qR4rBtic074rPl2/ZJCM42FxFEETGh+VK+7PvEES8awRetcclpGkSLvycxMLcbTiugX01vYxpDefI4bxFL1shw+FwUMnAa4uAvIdNdCqaCqXn6vMLXJsto3Y/hYQQOHRGU1sjGap2UYcXi3uMQArShX4XTKZKtSU2ESTUu+yCQpAAztloOyIO9E4Z2Cs4xhdpwSBsQY5vTx7B0WaZZZGyjLwaQHCsc/CMWp4xkHHjkXktaaGMbHZJujevWs+fNC5do7KyziWmw8pyxcwjEeeRrEh7uOReSh+HjOyWPDRvE61nqea3TjsjR3ZaTMiytDiRvHF2va9r6ekxUwPlBdvLoYiTC7OdHh+ECCBZNdddM/FJ5+WlXawhmnqSpl1SfmZhN9Y2GOcI7fquJi8PA/GiPDG2urTleqc7QyUqaa8qVYaQ5LuDEUIA4afnGvA92+A46rt7YwmH9Vc6FoBYRdAD91RQ5iUqKXUKpssksoTzsIOL8uyEzXMohxzTZk2HxgcDA0boHIG/ssdNmZWp1iXHyfLtIS2u6AkEKy1OQjORro4z7y0sFNBjcawcFrQAcqGf2CtkZSWRM1SbdYQ4mWUooaIFha50/CIc9xaxoOqtwuFgE2Jmeywy6HJQ9yarUWYm0yrUu8wrIoHRY/rEjeilDbu0l4OPwD5xGGub08OwLQqlsTWzjW6ZbTMblKwpKACo26YrErmzGzktg7Oin2Y0saA/du6Fmu1LasyyihU1xDSEuL+coJAKsuJi6NxMrgSuZj4Y27Pge1oBOprM5LFQ/K1/YPvEbK4SXjWCL2a5qdlKLT1SDe8UptIUMBVYWjnhjHSO3l7V+JxMGBgOHbZIF5XyWTZgPfK8yqZQUOKRiIItqYsxFGMALT2GJPXZDKKcRf1K62fl3pOVqT8y2ptBRliFr2B+MRO4Pc0NWWyIJMPDPJKKFc+y1Wppcxsg0llJWpKwSEi5FiYmw2fNVuY6XYzRGLIPmpmUKldlpRt9JQoOg2OvzidPRBp3p3EKZgYNkxtkFG/Mn8LraaSenKlKbptakLQElaU3tn8DEYd4aw2sttYWTEYqLcFggC/Fc06lJlNoUtIcLoZbxqURaxIsB+d4mSXehvS1jgdmiDaYYHWGi+nd/KYtJk5tFQZl5wPrmUlRSP6Taw/SK3FzS0uGi6EbcNO2Zkcm8X2a6ZJZsckpXPA6hCf1i7Ff0rm+jop0wPQeaw7Kf8AumvsK90Z4n/jWlsD/wA1vcfwnEmkuIrzSOc4pSwEjU3BtFDsuGV18MN8Yxjcz73ms1PZcltmKhv0lvETYKFicgPfGbyHTtpa+EjfDsqbiCrvXuA/K0mc5DKUV0myFJwL9BA/x3RXub7nhbJxfqsOEedKo91BV7XIS3ISqEWCQ4bW9EThSS82sPSFjWYeMN0tJKJ5Wv7B94jeXkUvTrBE0Zr1QYZQ028kIQnCkYAcoqMEZNkLpx7YxkTAxjshlouBWJ0TS5kOjeqSEk4RpE8FlbtLAbUxQlM297xy0XE7V56cb3b75KOKQAL+mDYmNNgKMRtPFYhu5I7JRI1ObkQRLO4UqzKSLi/TB8bX/EFjhcfiMLfCdVrifqE1PqSqZdK7aC1gPwiWxtZ8IWGKxs+KIMrrpaJauVCXYDKH+aBYYkgkfjGJgYTZC2Ydr4yFm41+SrYqk2w4+6h3+I9ktSgCTEmNpABCpix+Iic57XZu1Kqkp1+SeDrCwldsOYvlGTmB4oqrDYmXDP34jRVkrUpmUW6thYSp35+QN/8At4h0bXVfJWQY6aBznRmi7VVSc07Jvh6XUErAsCReJc0OFFVYfEyYaTiRmiu2qhMsza5lp3C6vNRA1iCxpG6QrI8bPHMZmOpx1Xc9Vp2eSETD10DPCAAIhkTGGwFnito4nFN3ZXZdFW/PPzEu0w6oFtkWQLDKJaxrSSOaqmxcs0bY3nJuimaqEzNS7TLzmNDXzRbTK0GxtabCynxs88bY5DYGitonla/sH3iM1qL9SeLrZjqWmeyJgig+DvZjqWm+yJginxd7MdS0z2RMER4u9mOpaZ7ImCKPF3sx1LTPZEwRT4u9mOpaZ7ImCKPF3sx1LTPZEwRHi72Y6lpnsiYIjxd7MdS0z2RMER4vNmOpaZ7ImCI8XezHUtM9kTBEeLvZjqWmeyJgiPF3sx1LTPZEwRT4u9mOpaZ7ImCKPF3sx1LTfZExCLpHg82aSbijU0eiUTEovWQRKq0860tndrUm4N7GPL+kWJmgdHwnEXengt3CMa67CW8smfPL74837UxvzCtvgx9EcsmPPL74e1Mb8wpwY+iOWTHnl98PamN+YU4MfRHLJjzy++HtTG/MKcGPoo5ZMefX3w9p435hTgx9EcsmfPL74e08b8wqeBH0Ry2Z8+vvh7TxvzCnAj6KOWTPn3O+HtLGfMKngx9EcsmfPr74e0sX8wpwY+iOWTPn3O+HtLGfMP1UcGPojlkz59ffD2jjPmFTwY+iOWTPn198PaOM+YU4MfRMaI86847vVqVYC1zHo/R3ESzOk4jiarzWnjGNaBQTgR6laKIIke0RAcYu5hyOWXZHkvSYHeiy6+S38FoUgfnGZdYS69ZJFwcib4gOjtEeehwzpm2wZ/4vyK23SAaqpNSaLig84UJCMYUACCOdxt0JJi9+BfQLBedfj+ViJm3RCvemEoaWpt3EsKCACRbEbDo7Y14oC54DhQIvwz/hZF4AyC45WhshEw8UuZ3IsUgZ2ztlcC9ozOGL/eiFj78ry7CaUCVo1C4VUGrICHXCpawmxTbDcgZ5Za8YzGCfnvAUBevZeXVOM3ou1TOF9YU8kNtpxEkjEctQLfhAYfejaWg7x+ncc/FSZKJsDLvXCagyXFIU8tACQblPpuDlrzTEuwMgaHAWf9VX1UcZt6LoTjBKQH3MRNrFIGE3tnllnFfqctE0K79e7rSyMzeiJSaRMoBDqsWEFWQsCQDa9u0Qnwz4jplZ78iRp4KWSh2gV/N/uD3p+Ea1dn79VnY6Iun+4Pen4Q/+fz/KWOiOb5896fhEeCWOicbOW3j9l4sk9HbHqfRn45fDzWhjjYanw0j1q56IIkm0JUHGMIBFjqfR2R5L0mreivt8lv4PQrzs7KuTS2lAoQW8fEm+JJHR02P4RwsLiWwgg2br7G+vTJbL4y6lWuRdLQQSj+Wlu9yb2SoX0+tFrca0P3q5k/Ug+SxMZpSwiZdlnMYQFqexpviSMiLZEX4frCR8TJW1oBR0Ot9DXPytSGuLSqzIv7sou0EruTzicJuogDLMc4Dhp25Zeuxh28bsd2egzz1y7dexRw3afv7mu+SzJViG5BUtKl88nRQOWXEC0R6zDVG6ANacwRnn23ztNx1qyal35hWZaCBmg3NwbWsctL5xVh54oRobOv1111/bWTmOcuHpR58OFxTYUvoJIHNUOj60ZR4qOLdDQaH8g+SgxuOpUclmC4Vq3X8RQKxiOWFRItlnr2Rl6zE1oAByutOYrPPJNxymWamWFoAQ3hwJQopcOdgbKItrw7ey0YyyxSNcbN2SMup0u9OedUcs7Uta4FbcS/op9b/EaHu9Vci6/op9b/EMuqhTdf0U+t/iIsdUTbZ++8exADIaH0x6n0Y+OXuHmtHG6NTwaR65aCIIke0Vt4xkvQ6A9keT9Jr3ovHyW9g9D+9V5qcUgOjEHyltsrwoKgb3Gf4frHGwzXbnu1ZNZ10OXj5LZkItVKm3r2SQCu6gShRsAF5HP6o7zFgwsQzN0MtRz3c9O38LHfP74ruVfU9MhayrdlK8KAhWVlAZ9MYTxNji3RqCLOXME5KWuJNrOy+EIbLe+3qwhTuNKlBQwqVze02t3RfJEXuIdVCwKoc2jPLtvzWIdWnP/KgzEytLja1oyWDiQ2vSzZsM/rqz7BlEtghaQ4A8+Y197PT/ANdO/NN5xVrU1MOYFFOBpShzi2rK/DX0Z9ukVPw8LbANkcrHLnp9ug1WQc46pjzehfcY5ZtbApHN/wCTuMM0yUc3/k7jDNMlPN+v3GGaZKRh+v3GIzTJSAnoX3GGahONn7Y3rYtBrePUejHxS+HmtDG6BPBpHrloogiSbQ4t4xhIGR1F+jtjyPpMRvxX2+S3sHoUjel98U77dqw/N5p+Oegyjzkc7o7Dbz/en3W4W72qpclG0trUvDg+eqwVfjpzshmch0npi9mJmLgAc9OX8dgz1yHRYljaXJ3Uq7vEkJccBN0oUbC4ubXyFyIkcWdm6TkOpH6TX2SmtN9VY3LIaVdAbFlXHNJt+fae+KnYh7xRP48h2d6zDAFSmSYSsNpAxDnAXX2Af1fVGXYOiLjipy3fJy05dp6dpz7T1WPDbdKGW5Z+6mrBV8WaVJ9BsTp2aRlK+eHJ3dyPlr151zUNa12i0MXDKUtrBCOZcg3Nsjx7I1JhchJGueXbmrG6LtRWkXKha/0T8YwDATQCyU/xPpp9U/GIodEUgOfTT6p+MY+6ma6AX9IeqfjDJM1IC+kdx+MQaUJxQQQt7EQchpHqPRet6WuzzWhjNAnQ0j2C0UQRJNoRdxi7ZVkf0jyPpMafFnWvkt7CaFeWqDQL7SuRrXYowFKL4CFgqv0Ze4xyMJJuxkb9a3yu2kD7/m+SveM9P21hdk93KpQaesoLCealAN3ClWvbcjPhlG+MTvSl3EF7xzvlbfIaLAsyrd5LdMbxDrZZlySU4RZGIXuNejLj2RowmNzHNe7K71rkc+3u7Va4EEUFiWx88cjXhIwqG7viXz8+3VOfojdEwsEPFg5Z6D3cuznl39VgW9R+5rTItYZly8qQvCcayiwUcRtnxyjVxUgdEBv5WKF6ZZ5d6zY2nGwsYlCWkhUu+EFICsTeJQVhIyB0A4HgSeGcbvrLGuPvC89DQq+dak8xzAA1yWHDNaK52WIC8UmooWSpaQi+I3XbL8U/lFUcwJb7+YoDPTJt+akt7FLcsskf6RSUp3ZQCkccN+7CYwdPH/eLO9fhvV9bU7p6KJZttDrSnZdKEoBJ3gCedhAJz7bwxMjixwa6yemeW8SNOz6aKY4ySDurW7U6az/NmZVH2nUfGOc3C4l3wtP0K3GwyO0Yfos6to6KjWaaV2IGL3RcNm4w/wBB/Cz9TnP9BVR2uoqTkp1R+qyYsGxsYeQ+qkYCc8h9V6vYyoS9Ul3ZqUSoNk4eeLG4jubBw0mGllY/Wm+a5W0YXQuDHar0g0j065qmCJHtCUhxnE4E806kDo6Y8j6TA78VC9fJb2DNApPjb/uR66fhHmKd/b9itoEdVkqc61ISTs0p1TgbF8CFJueHRF+HgdNII6q+tq6FnFeGA5lecXtniClMyUwQnUqULD02TlHXGxaNOeP3xXQGzSMi9ZHNtJzMNyzabcVLv+gjYbsSLm4/T/auGzW83H7LOnaysvuobQuXSVrCE2b4k21Ji07IwjAXEHLtWfqMDQXEn6/4VkzVdoGxMl2aSjk6kpWlCU3JVphyzGWsYxYXAHd3W3dnny/CiOLCu3azu6z6KhpyvzbpZcnJlpW6Ll3HC2CBwFrZxaW4GJoc1gOYHVZF2EY3eABzrkVxSpZdSbmVzU7OHc4eYhzGpVyRliVaMsTK3DlgYxufgPsCsp5WwltAZ/vJcfIjj76w0+yhveFttMy5ZxSgL2IFx08Yy9eaxosG6s7un3op62xrc+lmtFwijYmkq5Wyl0tJeUwAbhsm18Wl+yMnY2nEbpIur7auq18VkcUOmV1fb0WtnZ9tUwpp2ZUAiacYVhABUEoxAp7TpFDtoODQ4N1aD9TWfcqnY2m2ByB+ppakUynStPmXHkTDjbku0+EOYUuoOMgi9stRFDsVPJK0NIBBIvOj7t+SrdiJHvABAIJHZpa9v4OGW5RFWk2XCttibsi5B5pSk/qY6my3ukcZXCiWt+xcFxNruLzG88x5le1jtrjogiTV8qC2iALYTmTaPJ+kkTpHxboJ10F9Fu4Q5FJS+Bqtr1/8R5n1WX+x30W4D+2lm0jqHKDUE7xonk6yAF55C8bmAgkZiWO3TqOS2MI//uGd4XlKLNyclSktzcylInHlb5vAVkow4QCR83M3zjt4yKaWYmNvwjI9uvj0XUxDJXy2wfCMuWevj0VLU1ISRprSkyr7bTjnKHENhSlWUoNqJtmLG9ozdFNLxHCwSBui9MhY+qzLJZN8iwTVC9Oqz1Wel36hKzEvhVusJW4EFOIhVxe9rnttFuGw72wuY/K+48q7forIYntY5rua2P7Sb1EyAwVqVMIcZWfopXjCVdmtvTGuzZpBad6hRBHaRVjzVTcIQW58s++qsKk18IcbMvKnAl1xxaXXSoqKxYgGwsItGz7BDnZ0BkOmmXVZ+qkg7zumnZ5rBT6jyDlCWpdlxl8BKmnrqFr3HReNmfD8fdLiQW8wrpYuJRJojmFciqTeNHJGWWUtvB9tDLdglVrZCMDg49075JsUSTyu1UWwj438qNlWp+XH5cyyS6WCMODmJyve2LW3ZeMSMIx/EPxeKxMmDDt4kX4rY1J7SPPMuOnHulBSRMTLak3A6MUa7pMCxpa0VfRpv8Kp0+Ca0gEeF/wtMzQKxUnEmYekGUoTgQhp4kJF7nLjn2mKIsfhcODuNcSeZGf74KuPG4WIe7ZXtfB3RX6KxOofebd3ykqGC+Vh2x2Nl4oYlz3BpFVquPtbEtnc0tGi9nHZXHRBEtrjLj0qUoANxBF5IUOYcysO6GaZLlexzswhaCoJxAi5TeIIsUs438N4eORWFjwWrI/j1M36UMge8mNYYbqV33bfP9Mf1P8AhbmvBfIj+bOzCj2YR+kZertVDtvYg6NA+v8AK0o8GlIFsSn1el0j3RkMOxUu2zjDoQPAK9Pg7owFt0o+lRMZCJg5Kh208W7+sqFeD+l/0JKfxjIMaOSpdisQ7V5+qqc8H8pqlaoyAAVDnFxtxtZXdgGwOY4ruEFCxPbDOozSQfSmFlFge2Vmmv8AbSfwibKLmVo77UynGxx6IWUX02iIwSaRa1uEQiZQRfFvHtTer6p67PwgihXh1ph1p9U9dn9sEXI8OdLGlOqnrs/tgi7Hh2pnV9U9dn9sER49qb1fVPXZ+EER49qb1fVPXZ+EER49qb1fVPXZ+EER49qb1fVPXZ+EER49qb1fVPXZ+EER49qb1fVPXZ+EER49qb1dVPXZ+EEUePWmdX1X12f2wRcK8OFJX86mVM+lbP7YIqT4aKKTf5Lqd/vGf2wRaG/DnS0JsmnVQD7xn9sEWiU8N0hMuFCKfU7gXzca/b2wRfAIIiCJ1J7NzM3T5SdTNSjbc2+ZdoOLUCXBbmnm2GozvaNSTFtZI6Mg20We76qd3K0snJR+SmnpWabLT7KyhxtWqVDURsxvbI0PYbBUHLVU4e2M6RBSYUURhNoUi30SkPVqaXLSzrLbiGlu/wAUqAKUglWgPARrYjENw7Q5wNWBl25KQLWiX2dmpiYp6G3WVs1B7cMTCCSgruBhOVwQSNRxvpGL8UxrHkjNgsjnXXogFrCiRcXPiSC20uF3dYlqwpBva5J0EbDngR8TlVqOdKhbZQtSLpJSbXSbg+gxkMwijCeMTSKMPaIhEFOV+EEUQRMaH5Uv7B94giXQREEXsmai1I7D01TSpJ2cYqTjyWnHApTYwpwqwBQOo4giOW6EyY6S7DS0C677FrO6YFslUSk5RH5ioPyD09MyT0xvlPNhRmN5cBVzfGE3OQAseMVPMjJgyMENDmiqPw13VV9t2pGYsqUObOuUtuaWmUTPGRbmMICQN40cC0EaXXcqt2RB9bEpZnu7xHgcwe5uin3aVKJKnDZSY3rlOXNOSCXm1pdbCt6XgSLXxYwgkEWAtoDxsdNL603d3g3eo5HTd/BP7yUUN1FSFKckJ9pIpiSmkSziFNON4lTN0Y7EHNVsV0juiI/WA9rve+Nw5/DRrw0pDVJZ4P3WWK287MPssN8hmEYnnUoGJTagBckZk5RdtRjnwBrQSd5ug7QojNFNNnZ2Vp8pQqdMTEvvTXG511QfQUMtpATzlXsL5nXhFOLifK+WVoNcMtHaTnopa4AAHqgqpsxO0B9w025qjyJsbxu243ibYxfS2Oyjr0xH/WayZov4BWvxUdO3TJMsl3QRSG25NE4KWSqtLQ6XXG7iWwjpPzb3z7ojFesEu3N7Jgqr+K/zopbu8+q6otPl26Eh1qQlJqZcVMpbSp1lRccuA3kpQJw2JwpBxA9sJ5ncfdLiB7t5HIc9Bzy1IqlAGSys/J7jOzkoRR0CYQnlr7pRdBS6ogLIIKbpAGdr316LXcVpmf72XwgX0GmWeajLJYdrmpNMjSnZYS4fUh1MyGnG1KCg4cIUEG3zbRdg3SF8gddZVd6VnV9qOAoLzEbywTGh+VL+7PvEES6CIgiIIiCIgitl5Z6ZJDDZWRbIa5wRWfJ05dIEq6cQJFkE3Av8DBEGQnAnEZV8J6S2r4QRSadOhIUZR8A3/wBs8NYIq3pSYYALzDjYJtdaCBfogircbU0soWLKGogiYtVqZalpdizSuTX5O4psFbNziOE+kk56E5RUYGFxd117UspaognKLUUQREETGh+VL+7PvEES6CIgiIIiCIgi1yLc2HQ5IpeLl7BTaSbfj3QRbpV6rG7WKeCDnhQLXKiANek5emCJkuZds4W36yEgJSS42DhBBGeWWYFiOiCILkyXkth6tABI3aQkXJGM8Pw/DEOEES2fNXLpQozq2yboS4kklOdiR02giUvIcQsh5CkKOdlCxgi4giIIiCIgiY0Pypf3Z94giXQREERBEQRaJPkhe/1yn0s2P8kAqvw1METWVn6dLAoZnKyw3e9mVpAVkLki+tx7oIuxU5EpIXUK4oqOu8AsADb+rPnEQRR8qSQUMNQrg/hgYg4L3BNssWlrQRSqqyWNBE/Wub/WFgEHibYui/fnBFLlXluZu6nXMgA4C5bH02OI24dMEVLsxRX14ph6quqAICnAhRtw1VwJ/wC3giTLKcRwXw3yvBFzBEQREETGh+VL+7PvEES6CIgiIIiCIgiIIiCIgiIIiCIgiIIiCIgiIImND8qX92feIIv/2Q==",
-            "downloadLink": "https://www.google.co.id/books/edition/Hyper_Education/b3EnEAAAQBAJ?hl=en&gbpv=1&dq=Education&printsec=frontcover",
-            "tags": [
-                "Education"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "kCvGDwAAQBAJ",
-            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
-            "author": "Wardana",
-            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xVeX7mLE8EAC",
-            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
-            "tags": []
-        },
-        {
-            "id": "lR5bDwAAQBAJ",
-            "title": "Belajar Cepat Google Hacking",
-            "author": "Wahana Komputer",
-            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "_4VKDwAAQBAJ",
-            "title": "Hacking Attack!",
-            "author": "Beranda Agency",
-            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "0iGzEAAAQBAJ",
-            "title": "Ilmu Hacking",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "xuF3Rr2uD3YC",
-            "title": "Hacking For Dummies",
-            "author": "Kevin Beaver",
-            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "nxkUEQAAQBAJ",
-            "title": "Hacking untuk Pemula",
-            "author": "Dedik Kurniawan",
-            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "84pKDwAAQBAJ",
-            "title": "Buku Sakti Wireless Hacking",
-            "author": "Efvy Zam",
-            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "1E1JDwAAQBAJ",
-            "title": "Belajar Hacking dari Nol untuk Pemula",
-            "author": "Ali Zaki,Edy Winarno ST, M.",
-            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        },
-        {
-            "id": "ZC1IDwAAQBAJ",
-            "title": "Panduan Hacking Website dengan Kali Linux",
-            "author": "Mr. Doel",
-            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
-            "tags": [
-                "Computers"
-            ]
-        }
+            "id": 1,
+            "title": "The Hacker Playbook 1",
+            "author": "Peter Kim",
+            "cover": "https://github.com/Divinemonk/ebookstore/assets/82360546/02d5d7ae-ee8b-4d89-8831-2215e83a365d",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/thehackerplaybook1/The-Hacker-Playbook-1.pdf",
+            "tags": ["hacking", 
+                     "pentesting",
+                     "red teaming",
+                     "adversary simulation",
+                     "threat hunting",
+                     "threat intelligence",
+                     "incident response",
+                     "reverse engineering",
+                     "malware analysis",
+                     "exploitation",
+                     "cybersecurity",
+                     "post exploitation",
+                     "web application"]
+        },
+        {
+            "id": 2,
+            "title": "The Hacker Playbook 2",
+            "author": "Peter Kim",
+            "cover": "https://github.com/Divinemonk/ebookstore/assets/82360546/e27c94fa-f74c-47b7-9438-44b4f82b461c",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/thehackerplaybook2/The-Hacker-Playbook-2.pdf",
+            "tags": ["hacking", 
+                     "pentesting",
+                     "red teaming",
+                     "adversary simulation",
+                     "threat hunting",
+                     "threat intelligence",
+                     "incident response",
+                     "reverse engineering",
+                     "malware analysis",
+                     "exploitation",
+                     "cybersecurity",
+                     "post exploitation",
+                     "web application"]
+
+        },
+        {
+            "id": 3,
+            "title": "The Hacker Playbook 3",
+            "author": "Peter Kim",
+            "cover": "https://github.com/Divinemonk/ebookstore/assets/82360546/c53e8cfc-dc46-4d0c-94b9-1cb5e5536841",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/thehackerplaybook3/The-Hacker-Playbook-3.pdf",
+            "tags": ["hacking", 
+                     "pentesting",
+                     "red teaming",
+                     "adversary simulation",
+                     "threat hunting",
+                     "threat intelligence",
+                     "incident response",
+                     "reverse engineering",
+                     "malware analysis",
+                     "exploitation",
+                     "cybersecurity",
+                     "post exploitation",
+                     "web application"]
+        },
+        {
+            "id": 4,
+            "title": "Social Engineering: The Science of Human Hacking",
+            "author": "Christopher Hadnagy",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/2e2091e6-a460-4890-b2aa-17ea1f234829",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/TheScienceOfHumanHacking/Social-Engineering-The-Science-of-Human-Hacking.pdf",
+            "tags": ["social engineering", 
+                     "humans",
+                     "hacking", 
+                     "pentesting",
+                     "psychology",
+                     "information gathering",
+                     "pretexting",
+                     "influence", 
+                     "manipulation",
+                     "mind tricks",
+                     "deception"]
+        },
+        {
+            "id": 5,
+            "title": "Social Engineering: The Art of Human Hacking",
+            "author": "Christopher Hadnagy",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/f7c667ba-aa25-4e47-9652-3ade6903d2f0",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/TheArtOfHumanHacking/Social-Engineering-The-Art-of-Human-Hacking.pdf",
+            "tags": ["social engineering", 
+                     "humans",
+                     "hacking", 
+                     "pentesting",
+                     "psychology",
+                     "information gathering",
+                     "pretexting",
+                     "influence", 
+                     "manipulation",
+                     "mind tricks",
+                     "deception"]
+        },
+        {
+            "id": 6,
+            "title": "The GIANT Black Book of Computer Viruses",
+            "author": "Mark Ludwig",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/d0718ee7-28dc-412c-8e41-734f492955b4",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/TheGiantBlackBookOfComputerViruses/The-Giant-Black-Book-of-Computer-Viruses.pdf",
+            "tags": ["viruses", 
+                     "computers",
+                     "malware",
+                     "trojans",
+                     "worms",
+                     "backdoors",
+                     "logic bombs",
+                     "cybersecurity",
+                     "computer security",
+                     "computer viruses",
+                     "computer hacking"]
+        },
+        {
+            "id": 7,
+            "title": "Psych Experiments",
+            "author": "Michael A. Britt",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/beefd17e-3358-48b4-b08e-5abd08b75522",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/PsychExperiments/Psych-Experiments.pdf",
+            "tags": ["psychology", 
+                     "humans", 
+                     "experiments",
+                     "psychology experiments"]
+        },
+        {
+            "id": 8,
+            "title": "Psych 101 Psychology: Facts, Basics, Statistics, Tests, and More!",
+            "author": "Paul Kleinman",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/4f42a6dd-77f1-46dc-a057-da4c41049981",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Psych101Psychology/Psych-101-Psychology-Facts-Basics-Statistics-Tests-and-More.pdf",
+            "tags": ["psychology", 
+                     "humans",
+                     "psychology basics",
+                     "psychology facts",
+                     "psychology statistics",
+                     "psychology tests"]
+
+        },
+        {
+            "id": 9,
+            "title": "Ikigai",
+            "author": "Héctor García & Francesc Miralles",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/6797789f-b89d-4fac-a0a3-08861ceaf30f",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Ikigai/Ikigai.pdf",
+            "tags": ["personal development",
+                     "self-help",
+                     "Philosophy",
+                     "japanese culture",
+                     "purpose",
+                     "happiness",
+                     "well-being",
+                     "mindfulness",
+                     "life balance",
+                     "meaningful living"]
+        },
+        {
+            "id": 10,
+            "title": "Android Hacker's Handbook",
+            "author": "JD PF ZL CM SR GW",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/779035e2-c346-47d0-88ca-f6fd897d764e",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/Ikigai/Ikigai.pdf",
+            "tags": [ "android",
+                      "mobile security",
+                      "hacking",
+                      "cybersecurity",
+                      "vulnerability analysis",
+                      "reverse engineering",
+                      "exploitation",
+                      "application security"]
+        },
+        {
+            "id": 11,
+            "title": "Black Hat Python",
+            "author": "Justin Seitz",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/e5f4a00e-fd7e-42b1-b417-92e66886b664",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/BlackHatPython/Black-Hat-Python.pdf",
+            "tags": ["black hat python", 
+                     "python", 
+                     "ethical hacking",
+                     "cybersecurity",
+                     "offensive security", 
+                     "hacking",
+                     "cybersecurity",
+                     "network scanning", 
+                     "vulnerability exploitation", 
+                     "security research"]
+        },
+        {
+            "id": 12,
+            "title": "How to earn $10,000 while learning to code (2nd edition)",
+            "author": "Rob Percival",
+            "cover": "https://github.com/Divinemonk/ebooklibrary/assets/82360546/f7741e38-ab21-465b-b978-b3ceee7d57c7",
+            "downloadLink": "https://github.com/Divinemonk/ebooklibrary/releases/download/HowToEarn%2410%2C000WhileLearningToCode2ndEdition/How-to-earn-10-000-while-learning-to-code-2nd-edition.pdf",
+            "tags": ["coding",
+                     "learning",
+                     "income generation", 
+                     "freelancing", 
+                     "career development", 
+                     "financial independence"]
+        }      
     ]
 }
