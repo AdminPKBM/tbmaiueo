@@ -1,30 +1,32 @@
-import json
 import requests
+import json
 
-# URL ke file JSON di GitHub (contoh)
-url = "https://raw.githubusercontent.com/username/repository/main/database.json"
+# Ganti dengan URL Anda yang valid
+url = "https://raw.githubusercontent.com/Divinemonk/ebooklibrary/main/database.json"
 
 try:
-    # Mengambil data dari GitHub
+    # Jika repositori privat, uncomment baris berikut dan tambahkan token
+    # headers = {"Authorization": "token YOUR_TOKEN"}
+    # response = requests.get(url, headers=headers)
     response = requests.get(url)
-    response.raise_for_status()  # Memeriksa jika ada error HTTP
-    data = response.json()  # Data adalah list
+    response.raise_for_status()  # Cek error HTTP
 
-    # Memperbarui data (contoh: tambah kategori ke buku dengan id 1)
-    for item in data:
-        if item['id'] == 1:
-            item['categories'].append("Computers & Technology > Programming")
-            break
+    # Debug: lihat isi respon
+    print("Response Text:", response.text)
 
-    # Menyimpan ke file lokal
-    with open('database.json', 'w') as file:
-        json.dump(data, file, indent=4)
+    # Coba parse JSON
+    if response.text.strip():  # Pastikan tidak kosong
+        data = response.json()
+        print("Data berhasil diambil:", data)
 
-    print("Database berhasil diperbarui")
+        # Contoh: simpan ke file lokal
+        with open('database.json', 'w') as file:
+            json.dump(data, file, indent=4)
+        print("Database berhasil diperbarui")
+    else:
+        print("Error: Respon kosong dari GitHub")
 
 except requests.RequestException as e:
     print(f"Error updating GitHub database: {e}")
-except json.JSONDecodeError as e:
+except ValueError as e:
     print(f"Error decoding JSON: {e}")
-except Exception as e:
-    print(f"Error lainnya: {e}")
