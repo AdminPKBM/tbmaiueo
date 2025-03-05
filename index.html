@@ -14,7 +14,6 @@
 
         <link rel="stylesheet" href="style.css">
         <script src="script.js"></script> 
-
     </head>
     <body>
         <div class="container">
@@ -33,8 +32,9 @@
                     </div>
                 </div>
                 <div class="ad-column">
-                   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4454451699877502"
-     crossorigin="anonymous"></script>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4454451699877502"
+                            crossorigin="anonymous"></script>
+                    <!-- Iklan akan dimuat di sini -->
                 </div>
             </div>
         
@@ -52,8 +52,8 @@
                     <!-- Pagination will be dynamically added here -->
                 </div>
                 <div class="footer">
-                    <a src="https://www.celahcahaya.sch.id/">Made with <span class="heart">&#10084;</span></a>
-                    <a src="https://www.celahcahaya.sch.id/">Celah Cahaya creation!</a>
+                    <a href="https://www.celahcahaya.sch.id/">Made with <span class="heart">❤</span></a>
+                    <a href="https://www.celahcahaya.sch.id/">Celah Cahaya creation!</a>
                 </div>
             </div>
 
@@ -67,10 +67,73 @@
         </div>
 
         <script>
+            // Data buku dari JSON (dapat diambil dari file atau API)
+            const booksData = /* Data JSON yang Anda berikan akan dimuat di sini */;
+
+            // Memuat data buku saat halaman dimuat
+            document.addEventListener('DOMContentLoaded', () => {
+                loadBooks(booksData);
+                loadTags(booksData);
+            });
+
+            // Fungsi untuk memuat daftar buku
+            function loadBooks(books, filter = "All") {
+                const bookList = document.getElementById('bookList');
+                bookList.innerHTML = '';
+
+                let filteredBooks = books;
+                if (filter !== "All") {
+                    filteredBooks = books.filter(book => book.tags.includes(filter));
+                }
+
+                filteredBooks.forEach(book => {
+                    const bookDiv = document.createElement('div');
+                    bookDiv.className = 'book-item';
+                    bookDiv.innerHTML = `
+                        <img src="${book.cover}" alt="${book.title}" class="book-cover" onerror="this.src='https://via.placeholder.com/128x192.png?text=No+Cover'">
+                        <h3>${book.title}</h3>
+                        <p>Author: ${book.author}</p>
+                        <a href="${book.downloadLink}" target="_blank" class="download-link">Download</a>
+                        <div class="book-tags">${book.tags.map(tag => `<span class="tag">${tag}</span>`).join(' ')}</div>
+                    `;
+                    bookList.appendChild(bookDiv);
+                });
+            }
+
+            // Fungsi untuk memuat tags unik
+            function loadTags(books) {
+                const tagContainer = document.querySelector('.tag-container');
+                const allTags = ['All', ...new Set(books.flatMap(book => book.tags))];
+                allTags.forEach(tag => {
+                    const tagDiv = document.createElement('div');
+                    tagDiv.className = 'tag';
+                    tagDiv.textContent = tag;
+                    tagDiv.onclick = () => filterByTag(tagDiv);
+                    tagContainer.appendChild(tagDiv);
+                });
+            }
+
+            // Fungsi untuk memfilter berdasarkan tag
+            function filterByTag(tagElement) {
+                const tags = document.querySelectorAll('.tag');
+                tags.forEach(tag => tag.classList.remove('active'));
+                tagElement.classList.add('active');
+                loadBooks(booksData, tagElement.textContent);
+            }
+
+            // Fungsi untuk menangani pencarian
+            function handleSearchInput() {
+                const searchQuery = document.getElementById('searchInput').value.toLowerCase();
+                const filteredBooks = booksData.filter(book => 
+                    book.title.toLowerCase().includes(searchQuery) || 
+                    book.author.toLowerCase().includes(searchQuery)
+                );
+                loadBooks(filteredBooks, document.querySelector('.tag.active').textContent);
+            }
+
             // Attach the event listener to the search input field
             var searchInput = document.getElementById("searchInput");
             searchInput.addEventListener('input', handleSearchInput);
         </script>
-        
     </body>
 </html>
