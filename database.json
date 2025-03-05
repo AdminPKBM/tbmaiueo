@@ -1640,6 +1640,104 @@
             "tags": [
                 "Computers"
             ]
+        },
+        {
+            "id": "kCvGDwAAQBAJ",
+            "title": "Belajar Pemrograman dan Hacking Menggunakan Python",
+            "author": "Wardana",
+            "cover": "http://books.google.com/books/content?id=kCvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=kCvGDwAAQBAJ&printsec=frontcover&dq=hacking&hl=&cd=1&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "xVeX7mLE8EAC",
+            "title": "Tutorial 5 Hari Belajar Hacking dari Nol",
+            "author": "Wahana Komputer",
+            "cover": "http://books.google.com/books/content?id=xVeX7mLE8EAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=xVeX7mLE8EAC&pg=PA198&dq=hacking&hl=&cd=2&source=gbs_api",
+            "tags": []
+        },
+        {
+            "id": "lR5bDwAAQBAJ",
+            "title": "Belajar Cepat Google Hacking",
+            "author": "Wahana Komputer",
+            "cover": "http://books.google.com/books/content?id=lR5bDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=lR5bDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=3&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "_4VKDwAAQBAJ",
+            "title": "Hacking Attack!",
+            "author": "Beranda Agency",
+            "cover": "http://books.google.com/books/content?id=_4VKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=_4VKDwAAQBAJ&pg=PA70&dq=hacking&hl=&cd=4&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "0iGzEAAAQBAJ",
+            "title": "Ilmu Hacking",
+            "author": "Dedik Kurniawan",
+            "cover": "http://books.google.com/books/content?id=0iGzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=0iGzEAAAQBAJ&pg=PA2&dq=hacking&hl=&cd=5&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "xuF3Rr2uD3YC",
+            "title": "Hacking For Dummies",
+            "author": "Kevin Beaver",
+            "cover": "http://books.google.com/books/content?id=xuF3Rr2uD3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=xuF3Rr2uD3YC&pg=PA45&dq=hacking&hl=&cd=6&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "nxkUEQAAQBAJ",
+            "title": "Hacking untuk Pemula",
+            "author": "Dedik Kurniawan",
+            "cover": "http://books.google.com/books/content?id=nxkUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=nxkUEQAAQBAJ&pg=PR6&dq=hacking&hl=&cd=7&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "84pKDwAAQBAJ",
+            "title": "Buku Sakti Wireless Hacking",
+            "author": "Efvy Zam",
+            "cover": "http://books.google.com/books/content?id=84pKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=84pKDwAAQBAJ&pg=PR6&dq=hacking&hl=&cd=8&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "1E1JDwAAQBAJ",
+            "title": "Belajar Hacking dari Nol untuk Pemula",
+            "author": "Ali Zaki,Edy Winarno ST, M.",
+            "cover": "http://books.google.com/books/content?id=1E1JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=1E1JDwAAQBAJ&pg=PA1&dq=hacking&hl=&cd=9&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
+        },
+        {
+            "id": "ZC1IDwAAQBAJ",
+            "title": "Panduan Hacking Website dengan Kali Linux",
+            "author": "Mr. Doel",
+            "cover": "http://books.google.com/books/content?id=ZC1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "downloadLink": "http://books.google.co.id/books?id=ZC1IDwAAQBAJ&pg=PR7&dq=hacking&hl=&cd=10&source=gbs_api",
+            "tags": [
+                "Computers"
+            ]
         }
     ]
 }
